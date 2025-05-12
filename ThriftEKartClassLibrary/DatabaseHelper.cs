@@ -9,8 +9,8 @@ namespace ThriftEKartClassLibrary
 {
     public class DatabaseHelper
     {
-        string connectionString = "Data Source=Hyper_Z-FURY;Initial Catalog=ThriftEKart;Integrated Security=True;Trust Server Certificate=True";
-     // Customer Helper
+        string connectionString = "Data Source=<Server Name>;Initial Catalog=<Database Name>;Integrated Security=True;Trust Server Certificate=True";
+        // Customer Helper
         public string InsertCustomer(Customer customer)
         {
             try

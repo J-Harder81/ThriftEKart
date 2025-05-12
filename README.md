@@ -10,5 +10,10 @@ to the database name.
 Currently the project is still under construction, but contains the following functionality:
 Create and view customers, consignors, consignments, and products.
 
+In order to use the manager menu, you will need to use the following username and password:
+THRIFTEKART.ADMIN
+Thr!ft3K@rt4Us
+
 Still to come: functionality to track and manage sales, orders, and customer shopping carts.
+Also, plan on transitioning the application to a web interface.
 
